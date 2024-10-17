@@ -1,0 +1,1 @@
+SELECT * FROM PERSONS WHERE UPPER(city_of_living) like 'MOSCOW';
